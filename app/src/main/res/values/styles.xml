@@ -1,0 +1,45 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/GoogleSans</item>
+        <item name="android:textAppearanceButton">@style/GoogleSans</item>
+        <item name="editTextStyle">@style/GoogleSans</item>
+    </style>
+
+    <style name="GoogleSans" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/googlesans_regular</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <style name="GoogleSans.Large.Bold" parent="android:TextAppearance.Large">
+        <item name="android:fontFamily">@font/googlesans_bold</item>
+    </style>
+
+    <style name="GoogleSans.Medium.Bold" parent="android:TextAppearance.Medium">
+        <item name="android:fontFamily">@font/googlesans_bold</item>
+    </style>
+
+    <style name="GoogleSans.Small.Bold" parent="android:TextAppearance.Small">
+        <item name="android:fontFamily">@font/googlesans_bold</item>
+    </style>
+
+    <style name="GoogleSans.Large" parent="android:TextAppearance.Large">
+        <item name="android:fontFamily">@font/googlesans_regular</item>
+    </style>
+
+    <style name="GoogleSans.Medium" parent="android:TextAppearance.Medium">
+        <item name="android:fontFamily">@font/googlesans_regular</item>
+    </style>
+
+    <style name="GoogleSans.Small" parent="android:TextAppearance.Small">
+        <item name="android:fontFamily">@font/googlesans_regular</item>
+    </style>
+
+    <style name="GoogleSans.Button" parent="android:TextAppearance.Material.Button">
+        <item name="android:fontFamily">@font/googlesans_bold</item>
+    </style>
+
+</resources>

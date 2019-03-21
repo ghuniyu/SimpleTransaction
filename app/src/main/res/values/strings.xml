@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transaction</string>
+    <string name="amount">Amount</string>
+    <string name="zero">0</string>
+    <string name="note">note</string>
+    <string name="save">Save</string>
+    <string name="outcome">Outcome</string>
+    <string name="transaction">Transaction</string>
+    <string name="rp">Rp</string>
+    <string name="name">Sayang</string>
+</resources>
